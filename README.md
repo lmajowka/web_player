@@ -4,9 +4,9 @@ Very simple web player for lazy people like me
 
 Just copy and paste the content of web_player.js into your browser's console and enjoy start/pause article reading
 
-# Usage
+# Simple usage
 
-Just copy in your browser's console:
+Just copy into your browser's console:
 
     (function(d, s, id){
     var js, fjs = d.getElementsByTagName(s)[0];
