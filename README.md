@@ -24,4 +24,4 @@ Just copy into your browser's console:
 
 Install it from:
 
-    [https://chrome.google.com/webstore/detail/web-player-js/kooblhlcfnabnbanennkknccecgleedo?hl=en-US&gl=IL&authuser=0](https://chrome.google.com/webstore/detail/web-player-js/kooblhlcfnabnbanennkknccecgleedo?hl=en-US&gl=IL&authuser=0)
+[https://chrome.google.com/webstore/detail/web-player-js/kooblhlcfnabnbanennkknccecgleedo?hl=en-US&gl=IL&authuser=0](https://chrome.google.com/webstore/detail/web-player-js/kooblhlcfnabnbanennkknccecgleedo?hl=en-US&gl=IL&authuser=0	)
